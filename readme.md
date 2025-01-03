@@ -1,2 +1,2 @@
-## hello readme
-- this is from the branch 2
+## hell nuke
+- this is conf1 haha
