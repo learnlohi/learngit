@@ -1,2 +1,2 @@
-## hello readme
-- this is from the branch 2
+## hello readme conf2
+- this is from conf2 lmaoo
